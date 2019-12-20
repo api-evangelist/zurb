@@ -1,0 +1,70 @@
+{
+    "name": "Zurb",
+    "description": "ZURB, creating unique customer and user experiences. We are brand engineers that provide companies with strategic marketing, design and branding solutions. Work includes identity, branding, information design, web design, illustration, software design,...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/794-zurb.jpg",
+    "tags": [
+        "agency",
+        "coding",
+        "design",
+        "graphic design",
+        "have api",
+        "programming",
+        "social",
+        "webdesign"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/zurb\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Zurb",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/794-zurb.jpg",
+            "humanURL": "https:\/\/zurb.com\/talent#design-lead",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/zurb-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/zurb.com\/talent#design-lead"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/zurb.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/zurb.com\/blog\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/zurb"
+        },
+        {
+            "type": "Email",
+            "url": "getstarted@zurb.com"
+        },
+        {
+            "type": "Email",
+            "url": "foundation@zurb.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ZURB"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/zurb.com\/"
+        }
+    ]
+}
